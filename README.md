@@ -2,6 +2,8 @@
 
 Winter is coming.
 
+[Demo](http://jffry.github.io/blizzard.js/demo/)
+
 
 ## License
 
